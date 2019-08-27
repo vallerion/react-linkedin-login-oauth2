@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import '../assets/index.css';
 
 export class LinkedIn extends Component {
   static propTypes = {
